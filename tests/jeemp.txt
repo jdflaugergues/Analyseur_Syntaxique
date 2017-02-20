@@ -1,0 +1,4 @@
+M1:=carre@triangle@***rond
+M2,rouge := *carre@**triangle@**rond
+%
+M1#M2

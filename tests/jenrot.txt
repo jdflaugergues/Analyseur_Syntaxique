@@ -1,0 +1,4 @@
+M1 := (*1003rond#*1002rond)
+M2,jaune := (*1000rond#*1001rond)
+%
+M1@M2

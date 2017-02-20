@@ -1,0 +1,6 @@
+M1,rouge:=*(carre#triangle#rond#**triangle)
+M2,vert:=*(rond#*carre#triangle#*rond)
+M3,jaune:=*(triangle#*rond#**carre#**triangle)
+M4,bleu:=***(triangle#*rond#**carre#rond)
+%
+(M1#*(*rond#*2rond#*13rond#carre)#M4#*(*4rond#triangle#*5rond#*6rond)#*2M2#*2M3#**M1#**M4)@(carre#7triangle)

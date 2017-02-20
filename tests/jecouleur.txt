@@ -1,0 +1,9 @@
+M1,bleu := carre
+M2,noir := triangle
+M3,vert := rond
+M4,blanc := *carre
+M5,rouge := *triangle
+M6,jaune := *rond
+M7:= *carre
+%
+M1#M2#M3#M4#M6#M5#M7

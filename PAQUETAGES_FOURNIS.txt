@@ -1,0 +1,11 @@
+Pour tester votre paquetage Analyse_Ast, vous avez besoin de realiser au
+prealable le paquetage Construction_Ast.
+
+Si vous ne parvenez pas a mettre au point et a tester de facon
+satisfaisante le paquetage Construction_Ast, vous pouvez acceder a une
+version que nous vous fournissons, en executant les commandes
+suivantes :
+
+   cp /Public/243_Public/lib/patchwork/analyse-ast/*.ali.off .
+   mv construction_ast.ali.off construction_ast.ali
+   make

@@ -1,0 +1,4 @@
+M1:=carre
+M2:=M1#triangle
+%
+rond#M2#M1

@@ -1,0 +1,8 @@
+M1 := *3carre#*2carre
+M2,rouge := (*3rond#*2rond)#(*3rond#*2rond)
+M3,bleu := triangle
+M4,vert := triangle
+M5,jaune:= triangle
+M6,blanc:= triangle
+%
+(M1#3M1)@((carre#M6)#M2#(M6#*carre))@(*(M1#M1)#*M2#(*M5@*3M3@*M3@*3M4)#(*3M3@*M3@*3M4@*M4)#(*M3@*3M4@*M4@*3M5)#(*3M4@*M4@*3M5@M5)#*3M2#*3(M1#M1))@((*3carre#M6)#*2M2#(M6#*2carre))@(*2(M1#3M1))

@@ -1,0 +1,4 @@
+M1,rouge := (*carre#8*triangle#carre)
+M2,bleu := (*carre#4(rond#triangle)#carre)
+%
+M1@M2
